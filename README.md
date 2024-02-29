@@ -1,4 +1,4 @@
-# Logicrom SDK - I2C API example
+# Logicrom OpenCPU SDK - I2C API example
 
 ## How to build
 
